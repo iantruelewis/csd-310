@@ -1,2 +1,2 @@
 # csd-310
-Repository for csd-310 Database Development and Use
+Repository for CSD-310
